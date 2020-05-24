@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.beleykanych.amazon"
+    },
+    "jhipsterVersion": "6.8.0",
+    "applicationType": "monolith",
+    "baseName": "amazon",
+    "packageName": "com.beleykanych.amazon",
+    "packageFolder": "com/beleykanych/amazon",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ODU5MjUwMjlkYjZjYzMyYzQ0ZDg4ZGZkZGE5MDBjMTc1NmYzN2ZmYTIxNDZhNGFkYzA5ZmYyYzYyZDZiOTRkY2FmMjZlYTU5ZDY0NTRhNmVmNjU5MTVlNjY4NTk0NmVhN2JkMTg0OWZjNmU4ZjRmNjdmODA2NWRjZWVkYjk0NTM=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "solar",
+    "clientThemeVariant": "dark",
+    "creationTimestamp": 1588715063210,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
